@@ -57,6 +57,17 @@ gadusu-website/
 │   ├── int4.jpg        # Interior painting project 4
 │   ├── int5.jpg        # Interior painting project 5
 │   └── int6.jpg        # Interior painting project 6
+│   └── ext1.jpg        # Exterior painting project 1
+│   └── ext2.jpg        # Exterior painting project 2
+│   └── ext3.jpg        # Exterior painting project 3
+│   └── ext4.jpg        # Exterior painting project 4
+│   └── ext5.jpg        # Exterior painting project 5
+│   └── ext6.jpg        # Exterior painting project 6
+│   └── com1.jpg        # Commercial painting project 1
+│   └── com2.jpg        # Commercial  painting project 2
+│   └── com3.jpg        # Commercial  painting project 3
+│   └── com4.jpg        # Commercial  painting project 4
+│   └── com5.jpg        # Commercial  painting project 5
 └── README.md           # This file
 ```
 
